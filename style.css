@@ -8,7 +8,7 @@ td {
 tr td:first-of-type {
 	background: #f8f8f8;
 }
-.card-title i {
+.fa-book-reader {
 	margin-left: 5px;
 }
 td i {
@@ -22,4 +22,17 @@ td i {
 }
 body {
 	background: #666;
+}
+.fa-plus {
+	font-size: 15px !important;
+	margin-left: 9px;
+}
+.fa-js-square {
+	color: #f7df1d;
+	margin-left: 7px;
+
+	font-size: 21px !important;
+}
+.card {
+	min-height: 100vh;
 }
